@@ -1,13 +1,9 @@
 
 TITLE: 
-Luxe - 100% Fully Responsive Free HTML5 template
+Unbeatable Guest House Frontend Template
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+DEVELOPERS:
+Ali Yassin Arafat AND BENEDICT OSEI
 
 
 CREDITS:
